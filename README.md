@@ -18,4 +18,6 @@
   - Should whitelist and only allow the attributes that are wanted for exposure
   - May also want to expose relationships with json format
 
+- relationships are a bit tough to square up right now. i'm getting confused
+
 - take care of errors and status that is coming back(later?)
